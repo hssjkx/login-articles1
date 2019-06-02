@@ -1,3 +1,3 @@
-*.js linguist-language=thymeleaf
-*.css linguist-language=thymeleaf
-*.html linguist-language=thymeleaf
+*.js linguist-language=Thymeleaf
+*.css linguist-language=Thymeleaf
+*.html linguist-language=Thymeleaf
